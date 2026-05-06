@@ -4,7 +4,7 @@
 
 ### Backend Developer · Indonesia 🇮🇩
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0E75B6&center=true&vCenter=true&width=435&lines=Passionate+Backend+Developer;Currently+Learning+Mobile+Dev;Building+Things+That+Matter)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0E75B6&center=true&vCenter=true&width=435&lines=Passionate+Backend+Developer;Currently+Learning+Infrastructure+And+Cloud;Building+Things+That+Matter)](https://git.io/typing-svg)
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=muflihunaf&label=Profile+Views&color=0e75b6&style=flat-square" alt="Profile Views" />
